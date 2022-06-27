@@ -1,6 +1,6 @@
 # ASM Blink program on STM32F407VET_Black
 1. Add toolchain directory variable to User Environment Variables:
-ST_TOOLCHAIN_DIR    C:\Users\krudenko\Workspace\ST\ST_Toolchain
+ST_TOOLCHAIN_DIR    C:\...\ST_Toolchain
 
 2. Add following variables to the User Environment Variables PATH:
 %ST_TOOLCHAIN_DIR%\GnuWin32\bin
